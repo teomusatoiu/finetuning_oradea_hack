@@ -16,9 +16,9 @@ If you’re looking for guidance or a peek at the solutions, head over to the `s
 
 ## 🧠 What's Inside?
 
-- **Exercise 1:** [Brief description of Exercise 1]
-- **Exercise 2:** [Brief description of Exercise 2]
-- **Exercise 3:** [Brief description of Exercise 3]
+- **Exercise 1:** Fine Tuning for Q&A - Wiki Assistant
+- **Exercise 2:** Fine Tuning for function calling - Program your drone! 
+- **Exercise 3:** Fine Tuning for images - Better medical diagnosis
 
 Each exercise is designed to build on the previous one, so make sure to complete them in order for the best learning experience!
 
