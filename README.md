@@ -16,7 +16,7 @@ If you’re looking for guidance or a peek at the solutions, head over to the `s
 
 ## 🧠 What's Inside?
 
-- **Exercise 1:** Fine Tuning for Q&A - Wiki Assistant
+- **Exercise 1:** Distillation - Wine Labelling
 - **Exercise 2:** Fine Tuning for function calling - Program your drone! 
 - **Exercise 3:** Fine Tuning for images - Better medical diagnosis
 
