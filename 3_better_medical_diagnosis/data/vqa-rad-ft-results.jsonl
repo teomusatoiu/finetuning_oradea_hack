@@ -1,0 +1,451 @@
+{"example_id": 0, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 1, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 2, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 3, "predicted_answer": "right", "actual_answer": "right"}
+{"example_id": 4, "predicted_answer": "on either side of the spine", "actual_answer": "not seen here"}
+{"example_id": 5, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 6, "predicted_answer": "right side", "actual_answer": "left"}
+{"example_id": 7, "predicted_answer": "ascending colon", "actual_answer": "left"}
+{"example_id": 8, "predicted_answer": "smaller", "actual_answer": "smaller"}
+{"example_id": 9, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 10, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 11, "predicted_answer": "the cerebellum", "actual_answer": "skull \tcartilage and medulla"}
+{"example_id": 12, "predicted_answer": "bronchus", "actual_answer": "the right bronchus"}
+{"example_id": 13, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 14, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 15, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 16, "predicted_answer": "xray", "actual_answer": "plain film x-ray"}
+{"example_id": 17, "predicted_answer": "intestine", "actual_answer": "the small intestines"}
+{"example_id": 18, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 19, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 20, "predicted_answer": "ascites", "actual_answer": "the diaphragm"}
+{"example_id": 21, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 22, "predicted_answer": "axial", "actual_answer": "axial"}
+{"example_id": 23, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 24, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 25, "predicted_answer": "ct", "actual_answer": "ct with contrast"}
+{"example_id": 26, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 27, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 28, "predicted_answer": "lateral ventricles", "actual_answer": "lateral ventricles"}
+{"example_id": 29, "predicted_answer": "lateral ventricles", "actual_answer": "lateral ventricles"}
+{"example_id": 30, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 31, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 32, "predicted_answer": "supratentorial", "actual_answer": "supratentorial"}
+{"example_id": 33, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 34, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 35, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 36, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 37, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 38, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 39, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 40, "predicted_answer": "fat", "actual_answer": "fat"}
+{"example_id": 41, "predicted_answer": "herniated bowel", "actual_answer": "fat"}
+{"example_id": 42, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 43, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 44, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 45, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 46, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 47, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 48, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 49, "predicted_answer": "distal svc", "actual_answer": "mid left subclavian vein"}
+{"example_id": 50, "predicted_answer": "distal svc", "actual_answer": "mid left subclavian vein"}
+{"example_id": 51, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 52, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 53, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 54, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 55, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 56, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 57, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 58, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 59, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 60, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 61, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 62, "predicted_answer": "t2 weighted mri", "actual_answer": "t2-mri"}
+{"example_id": 63, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 64, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 65, "predicted_answer": "opacity of the right lung and the trachea is deviated to the right", "actual_answer": "cardiomegaly with pulmonary edema"}
+{"example_id": 66, "predicted_answer": "right sided pleural effusion", "actual_answer": "cardiomegaly with pulmonary edema"}
+{"example_id": 67, "predicted_answer": "pulmonary", "actual_answer": "pulmonary/lymphatic"}
+{"example_id": 68, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 69, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 70, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 71, "predicted_answer": "right lower lobe", "actual_answer": "right upper lobe"}
+{"example_id": 72, "predicted_answer": "right lung", "actual_answer": "right upper lobe"}
+{"example_id": 73, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 74, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 75, "predicted_answer": "pa", "actual_answer": "coronal"}
+{"example_id": 76, "predicted_answer": "right lobe of the liver", "actual_answer": "head of the pancreas"}
+{"example_id": 77, "predicted_answer": "pancreas", "actual_answer": "head of the pancreas"}
+{"example_id": 78, "predicted_answer": "head", "actual_answer": "the pancreatic head"}
+{"example_id": 79, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 80, "predicted_answer": "t2 weighted", "actual_answer": "t2 weighted mri"}
+{"example_id": 81, "predicted_answer": "bowel", "actual_answer": "the base of the cecum"}
+{"example_id": 82, "predicted_answer": "right frontal lobe", "actual_answer": "right frontal lobe"}
+{"example_id": 83, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 84, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 85, "predicted_answer": "axial", "actual_answer": "axial plane"}
+{"example_id": 86, "predicted_answer": "mri", "actual_answer": "mri"}
+{"example_id": 87, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 88, "predicted_answer": "lateral ventricles", "actual_answer": "the 3rd ventricle and the lateral ventricles"}
+{"example_id": 89, "predicted_answer": "abdomen", "actual_answer": "abdomen"}
+{"example_id": 90, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 91, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 92, "predicted_answer": "ring enhancing lesion", "actual_answer": "regression of left frontal mass"}
+{"example_id": 93, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 94, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 95, "predicted_answer": "right", "actual_answer": "right"}
+{"example_id": 96, "predicted_answer": "right", "actual_answer": "right"}
+{"example_id": 97, "predicted_answer": "ivc", "actual_answer": "ivc"}
+{"example_id": 98, "predicted_answer": "ivc", "actual_answer": "ivc"}
+{"example_id": 99, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 100, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 101, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 102, "predicted_answer": "right", "actual_answer": "left"}
+{"example_id": 103, "predicted_answer": "left", "actual_answer": "left"}
+{"example_id": 104, "predicted_answer": "axial", "actual_answer": "axial"}
+{"example_id": 105, "predicted_answer": "right lung", "actual_answer": "right side"}
+{"example_id": 106, "predicted_answer": "right lung", "actual_answer": "right side"}
+{"example_id": 107, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 108, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 109, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 110, "predicted_answer": "right frontal lobe", "actual_answer": "r frontal lobe"}
+{"example_id": 111, "predicted_answer": "bilateral", "actual_answer": "r frontal lobe"}
+{"example_id": 112, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 113, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 114, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 115, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 116, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 117, "predicted_answer": "on a coronal slice", "actual_answer": "coronal plane?"}
+{"example_id": 118, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 119, "predicted_answer": "mr - t2 weighted", "actual_answer": "mri - t2 weighted"}
+{"example_id": 120, "predicted_answer": "axial", "actual_answer": "axial"}
+{"example_id": 121, "predicted_answer": "axial", "actual_answer": "axial"}
+{"example_id": 122, "predicted_answer": "right lung", "actual_answer": "right lower lateral lung field"}
+{"example_id": 123, "predicted_answer": "retrocardiac", "actual_answer": "right lower lateral lung field"}
+{"example_id": 124, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 125, "predicted_answer": "too large to see", "actual_answer": "3.4 cm"}
+{"example_id": 126, "predicted_answer": "no mass", "actual_answer": "3.4 cm"}
+{"example_id": 127, "predicted_answer": "female", "actual_answer": "female"}
+{"example_id": 128, "predicted_answer": "female", "actual_answer": "female"}
+{"example_id": 129, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 130, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 131, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 132, "predicted_answer": "brain", "actual_answer": "brain"}
+{"example_id": 133, "predicted_answer": "lateral ventricles", "actual_answer": "left thalamus and basal ganglia"}
+{"example_id": 134, "predicted_answer": "lateral ventricles", "actual_answer": "left thalamus and basal ganglia"}
+{"example_id": 135, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 136, "predicted_answer": "posterior cerebral artery", "actual_answer": "basilar artery"}
+{"example_id": 137, "predicted_answer": "right pca", "actual_answer": "basilar artery"}
+{"example_id": 138, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 139, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 140, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 141, "predicted_answer": "right thalamus and right posterior temporal/occipital lobe", "actual_answer": "right hemisphere"}
+{"example_id": 142, "predicted_answer": "left hemisphere", "actual_answer": "right hemisphere"}
+{"example_id": 143, "predicted_answer": "right cerebellum", "actual_answer": "right cerebellopontine angle"}
+{"example_id": 144, "predicted_answer": "right cerebellum", "actual_answer": "right cerebellopontine angle"}
+{"example_id": 145, "predicted_answer": "fat", "actual_answer": "adipose tissue"}
+{"example_id": 146, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 147, "predicted_answer": "bone", "actual_answer": "adipose tissue"}
+{"example_id": 148, "predicted_answer": "csf", "actual_answer": "csf"}
+{"example_id": 149, "predicted_answer": "csf", "actual_answer": "csf"}
+{"example_id": 150, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 151, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 152, "predicted_answer": "hydrocephalus", "actual_answer": "hydrocephalus"}
+{"example_id": 153, "predicted_answer": "hydrocephalus", "actual_answer": "hydrocephalus"}
+{"example_id": 154, "predicted_answer": "brain", "actual_answer": "brain"}
+{"example_id": 155, "predicted_answer": "with contrast", "actual_answer": "ct"}
+{"example_id": 156, "predicted_answer": "ct", "actual_answer": "ct"}
+{"example_id": 157, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 158, "predicted_answer": "right upper lobe", "actual_answer": "right upper lobe"}
+{"example_id": 159, "predicted_answer": "retrocardiac", "actual_answer": "right upper lobe"}
+{"example_id": 160, "predicted_answer": "x-ray", "actual_answer": "xray"}
+{"example_id": 161, "predicted_answer": "left cerebellum", "actual_answer": "right posteroinferior cerebellum"}
+{"example_id": 162, "predicted_answer": "right cerebellar hematoma", "actual_answer": "bleeding in the right posteroinferior cerebellum"}
+{"example_id": 163, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 164, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 165, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 166, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 167, "predicted_answer": "supine", "actual_answer": "supine (see air-fluid level)"}
+{"example_id": 168, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 169, "predicted_answer": "fat", "actual_answer": "gallbladder"}
+{"example_id": 170, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 171, "predicted_answer": "female", "actual_answer": "female"}
+{"example_id": 172, "predicted_answer": "female", "actual_answer": "female"}
+{"example_id": 173, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 174, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 175, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 176, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 177, "predicted_answer": "air", "actual_answer": "the liver"}
+{"example_id": 178, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 179, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 180, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 181, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 182, "predicted_answer": "orbits", "actual_answer": "maxillary sinuses"}
+{"example_id": 183, "predicted_answer": "necrosis", "actual_answer": "maxillary sinuses"}
+{"example_id": 184, "predicted_answer": "axial", "actual_answer": "lying supine with their feet towards the screen"}
+{"example_id": 185, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 186, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 187, "predicted_answer": "sacroiliac joint", "actual_answer": "sacroiliac joint"}
+{"example_id": 188, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 189, "predicted_answer": "right", "actual_answer": "right"}
+{"example_id": 190, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 191, "predicted_answer": "right", "actual_answer": "right"}
+{"example_id": 192, "predicted_answer": "ribs", "actual_answer": "ribs"}
+{"example_id": 193, "predicted_answer": "ribs", "actual_answer": "ribs"}
+{"example_id": 194, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 195, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 196, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 197, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 198, "predicted_answer": "cardiac size", "actual_answer": "right vs left sided pathology"}
+{"example_id": 199, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 200, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 201, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 202, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 203, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 204, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 205, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 206, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 207, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 208, "predicted_answer": "axial", "actual_answer": "axial"}
+{"example_id": 209, "predicted_answer": "rectum", "actual_answer": "intestines"}
+{"example_id": 210, "predicted_answer": "lateral ventricles are mildly dilated", "actual_answer": "lateral and third ventricular hydrocephalus"}
+{"example_id": 211, "predicted_answer": "enlargement of the right lateral ventricle", "actual_answer": "lateral and third ventricular hydrocephalus"}
+{"example_id": 212, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 213, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 214, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 215, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 216, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 217, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 218, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 219, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 220, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 221, "predicted_answer": "appendicitis", "actual_answer": "diverticulitis"}
+{"example_id": 222, "predicted_answer": "intussusception", "actual_answer": "diverticulitis"}
+{"example_id": 223, "predicted_answer": "pa", "actual_answer": "posterior-anterior"}
+{"example_id": 224, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 225, "predicted_answer": "axial", "actual_answer": "axial"}
+{"example_id": 226, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 227, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 228, "predicted_answer": "gallstones", "actual_answer": "gallstones"}
+{"example_id": 229, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 230, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 231, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 232, "predicted_answer": "anterior and middle cerebral arteries", "actual_answer": "left aca and mca"}
+{"example_id": 233, "predicted_answer": "left mca", "actual_answer": "left aca and mca"}
+{"example_id": 234, "predicted_answer": "brain", "actual_answer": "brain"}
+{"example_id": 235, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 236, "predicted_answer": "lateral ventricles", "actual_answer": "caudate, putamen, left parietal"}
+{"example_id": 237, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 238, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 239, "predicted_answer": "brain", "actual_answer": "brain"}
+{"example_id": 240, "predicted_answer": "circle of willis", "actual_answer": "brain"}
+{"example_id": 241, "predicted_answer": "fatty liver", "actual_answer": "kidney cyst"}
+{"example_id": 242, "predicted_answer": "focal nodular hyperplasia", "actual_answer": "kidney cyst"}
+{"example_id": 243, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 244, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 245, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 246, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 247, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 248, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 249, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 250, "predicted_answer": "mri - flair", "actual_answer": "axial"}
+{"example_id": 251, "predicted_answer": "axial", "actual_answer": "axial"}
+{"example_id": 252, "predicted_answer": "hemidiaphragms", "actual_answer": "diaphragm"}
+{"example_id": 253, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 254, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 255, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 256, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 257, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 258, "predicted_answer": "cardiopulmonary", "actual_answer": "chest"}
+{"example_id": 259, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 260, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 261, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 262, "predicted_answer": "4th ventricle", "actual_answer": "4th ventricle"}
+{"example_id": 263, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 264, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 265, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 266, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 267, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 268, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 269, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 270, "predicted_answer": "x-ray", "actual_answer": "xr"}
+{"example_id": 271, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 272, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 273, "predicted_answer": "right upper lobe", "actual_answer": "upper left"}
+{"example_id": 274, "predicted_answer": "fat halo", "actual_answer": "mucosal hyperemia"}
+{"example_id": 275, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 276, "predicted_answer": "cecum", "actual_answer": "ascending colon"}
+{"example_id": 277, "predicted_answer": "nipple location", "actual_answer": "yes"}
+{"example_id": 278, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 279, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 280, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 281, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 282, "predicted_answer": "right kidney", "actual_answer": "right"}
+{"example_id": 283, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 284, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 285, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 286, "predicted_answer": "nipple ring", "actual_answer": "mediport"}
+{"example_id": 287, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 288, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 289, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 290, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 291, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 292, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 293, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 294, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 295, "predicted_answer": "posterior to the heart", "actual_answer": "anterior mediastinum"}
+{"example_id": 296, "predicted_answer": "cystic", "actual_answer": "cystic"}
+{"example_id": 297, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 298, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 299, "predicted_answer": "10cm", "actual_answer": "5mm"}
+{"example_id": 300, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 301, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 302, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 303, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 304, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 305, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 306, "predicted_answer": "axial", "actual_answer": "axial"}
+{"example_id": 307, "predicted_answer": "x-ray", "actual_answer": "plain film"}
+{"example_id": 308, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 309, "predicted_answer": "abnormal", "actual_answer": "abnormal"}
+{"example_id": 310, "predicted_answer": "mr - flair", "actual_answer": "mri"}
+{"example_id": 311, "predicted_answer": "bilaterally", "actual_answer": "frontal and occipital"}
+{"example_id": 312, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 313, "predicted_answer": "right cerebellum", "actual_answer": "basal ganglia, cerebellum, cerebral cortex"}
+{"example_id": 314, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 315, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 316, "predicted_answer": "acute", "actual_answer": "early hemorrhage"}
+{"example_id": 317, "predicted_answer": "yes", "actual_answer": "on the patient's left"}
+{"example_id": 318, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 319, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 320, "predicted_answer": "right", "actual_answer": "bilateral lungs"}
+{"example_id": 321, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 322, "predicted_answer": "dwi", "actual_answer": "dwi diffusion weighted"}
+{"example_id": 323, "predicted_answer": "reticular and nodular opacities", "actual_answer": "pulmonary nodules"}
+{"example_id": 324, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 325, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 326, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 327, "predicted_answer": "ct", "actual_answer": "ct"}
+{"example_id": 328, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 329, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 330, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 331, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 332, "predicted_answer": "right", "actual_answer": "right side"}
+{"example_id": 333, "predicted_answer": "retrocardiac", "actual_answer": "right of the midline, superior to the right hilum"}
+{"example_id": 334, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 335, "predicted_answer": "no focal consolidation", "actual_answer": "pulmonary nodules"}
+{"example_id": 336, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 337, "predicted_answer": "1.3cm", "actual_answer": "2.5cm x 1.7cm x 1.6cm"}
+{"example_id": 338, "predicted_answer": "right", "actual_answer": "both"}
+{"example_id": 339, "predicted_answer": "bilateral", "actual_answer": "bilateral"}
+{"example_id": 340, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 341, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 342, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 343, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 344, "predicted_answer": "right upper quadrant", "actual_answer": "stomach"}
+{"example_id": 345, "predicted_answer": "right upper quadrant", "actual_answer": "stomach"}
+{"example_id": 346, "predicted_answer": "gallstone", "actual_answer": "free air"}
+{"example_id": 347, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 348, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 349, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 350, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 351, "predicted_answer": "motion", "actual_answer": "motion"}
+{"example_id": 352, "predicted_answer": "mr motion", "actual_answer": "motion"}
+{"example_id": 353, "predicted_answer": "axial", "actual_answer": "axial"}
+{"example_id": 354, "predicted_answer": "axial", "actual_answer": "axial"}
+{"example_id": 355, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 356, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 357, "predicted_answer": "nodule", "actual_answer": "free air"}
+{"example_id": 358, "predicted_answer": "flair", "actual_answer": "flair"}
+{"example_id": 359, "predicted_answer": "mri", "actual_answer": "mr-flair"}
+{"example_id": 360, "predicted_answer": "calcifications", "actual_answer": "calcified atherosclerosis"}
+{"example_id": 361, "predicted_answer": "ribs", "actual_answer": "calcified atherosclerosis"}
+{"example_id": 362, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 363, "predicted_answer": "hyperinflation", "actual_answer": "hyperinflation"}
+{"example_id": 364, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 365, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 366, "predicted_answer": "abnormal", "actual_answer": "abnormal"}
+{"example_id": 367, "predicted_answer": "normal", "actual_answer": "abnormal"}
+{"example_id": 368, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 369, "predicted_answer": "t2 weighted", "actual_answer": "t2-weighted"}
+{"example_id": 370, "predicted_answer": "intussusception", "actual_answer": "soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy"}
+{"example_id": 371, "predicted_answer": "air fluid levels", "actual_answer": "soft tissue mass in the region of the terminal ileum with mesenteric lymphadenopathy"}
+{"example_id": 372, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 373, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 374, "predicted_answer": "sinus disease", "actual_answer": "cavum vergae"}
+{"example_id": 375, "predicted_answer": "sinusitis", "actual_answer": "cavum vergae"}
+{"example_id": 376, "predicted_answer": "mri", "actual_answer": "mri"}
+{"example_id": 377, "predicted_answer": "mri", "actual_answer": "mri"}
+{"example_id": 378, "predicted_answer": "axial", "actual_answer": "axial"}
+{"example_id": 379, "predicted_answer": "splenic artery aneurysm", "actual_answer": "hypodense lesion"}
+{"example_id": 380, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 381, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 382, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 383, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 384, "predicted_answer": "fatty infiltration", "actual_answer": "appendicitis"}
+{"example_id": 385, "predicted_answer": "appendicitis", "actual_answer": "appendicitis"}
+{"example_id": 386, "predicted_answer": "distal small bowel", "actual_answer": "proximal aspect of the appendix"}
+{"example_id": 387, "predicted_answer": "partial obstruction of the large bowel", "actual_answer": "proximal aspect of the appendix"}
+{"example_id": 388, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 389, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 390, "predicted_answer": "nothing", "actual_answer": "hypodense lesion"}
+{"example_id": 391, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 392, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 393, "predicted_answer": "pa", "actual_answer": "pa"}
+{"example_id": 394, "predicted_answer": "multiple", "actual_answer": "one"}
+{"example_id": 395, "predicted_answer": "one", "actual_answer": "one"}
+{"example_id": 396, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 397, "predicted_answer": "partial pancreatic necrosis", "actual_answer": "enlarged"}
+{"example_id": 398, "predicted_answer": "fatty infiltration", "actual_answer": "enlarged"}
+{"example_id": 399, "predicted_answer": "cavitations", "actual_answer": "nodular opacities"}
+{"example_id": 400, "predicted_answer": "cavitation", "actual_answer": "nodular opacities"}
+{"example_id": 401, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 402, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 403, "predicted_answer": "single focus", "actual_answer": "ring-enhancing lesions"}
+{"example_id": 404, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 405, "predicted_answer": "left temporal lobe", "actual_answer": "right temporal lobe"}
+{"example_id": 406, "predicted_answer": "left temporal lobe", "actual_answer": "right temporal lobe"}
+{"example_id": 407, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 408, "predicted_answer": "obliterated", "actual_answer": "middle mogul"}
+{"example_id": 409, "predicted_answer": "enlarged lymph node", "actual_answer": "middle mogul"}
+{"example_id": 410, "predicted_answer": "partial filling in", "actual_answer": "middle mogul"}
+{"example_id": 411, "predicted_answer": "right hemithorax", "actual_answer": "right lung"}
+{"example_id": 412, "predicted_answer": "left lung", "actual_answer": "right lung"}
+{"example_id": 413, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 414, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 415, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 416, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 417, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 418, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 419, "predicted_answer": "xray", "actual_answer": "x-ray"}
+{"example_id": 420, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 421, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 422, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 423, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 424, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 425, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 426, "predicted_answer": "one", "actual_answer": "one"}
+{"example_id": 427, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 428, "predicted_answer": "left", "actual_answer": "left"}
+{"example_id": 429, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 430, "predicted_answer": "left lung", "actual_answer": "left"}
+{"example_id": 431, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 432, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 433, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 434, "predicted_answer": "less than half the diameter", "actual_answer": "it is less than half the width of the thorax"}
+{"example_id": 435, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 436, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 437, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 438, "predicted_answer": "gallstones", "actual_answer": "blood vessel"}
+{"example_id": 439, "predicted_answer": "supraclavicular region", "actual_answer": "above the clavicles bilaterally"}
+{"example_id": 440, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 441, "predicted_answer": "no", "actual_answer": "yes"}
+{"example_id": 442, "predicted_answer": "left side of image", "actual_answer": "posterior to the appendix"}
+{"example_id": 443, "predicted_answer": "right psoas muscle", "actual_answer": "psoas muscle"}
+{"example_id": 444, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 445, "predicted_answer": "upper chest", "actual_answer": "on the right shoulder."}
+{"example_id": 446, "predicted_answer": "yes", "actual_answer": "yes"}
+{"example_id": 447, "predicted_answer": "yes", "actual_answer": "no"}
+{"example_id": 448, "predicted_answer": "nodule", "actual_answer": "a bullous lesion"}
+{"example_id": 449, "predicted_answer": "no", "actual_answer": "no"}
+{"example_id": 450, "predicted_answer": "retrocardiac", "actual_answer": "anterior mediastinum"}
