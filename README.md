@@ -1,10 +1,10 @@
 # From Good to Great: Hands-On Fine-Tuning for Hackathon Success
 
-Welcome to **From Good to Great**, a repository designed to kickstart your journey into fine-tuning with OpenAI's technologies during this hackathon. Here, you’ll find three hands-on exercises that will help you master the art of fine-tuning models to achieve greater accuracy and performance in various tasks.
+Welcome to our **Fine Tuning Workshop**! This repository designed to kickstart your journey into fine-tuning with OpenAI's technologies during this hackathon. Here, you’ll find three hands-on exercises that will help you master the art of fine-tuning models to achieve greater accuracy and performance in various tasks.
 
 ## 🚀 How to Get Started
 
-1. **Fork or Clone** this repository to begin your fine-tuning adventure.
+1. **Fork** this repository to begin your fine-tuning adventure.
 2. Each exercise includes:
    - A **starter Jupyter Notebook** to guide you through the fine-tuning process.
    - A **dataset** tailored to the specific task.
