@@ -4,7 +4,7 @@ Welcome to our **Fine Tuning Workshop**! This repository designed to kickstart y
 
 ## 🚀 How to Get Started
 
-1. **Fork or Clone** this repository to begin your fine-tuning adventure.
+1. **Fork** this repository to begin your fine-tuning adventure.
 2. Each exercise includes:
    - A **starter Jupyter Notebook** to guide you through the fine-tuning process.
    - A **dataset** tailored to the specific task.
