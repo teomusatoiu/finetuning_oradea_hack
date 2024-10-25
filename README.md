@@ -1,6 +1,6 @@
 # From Good to Great: Hands-On Fine-Tuning for Hackathon Success
 
-Welcome to our **Fine Tuning Workshop**, a repository designed to kickstart your journey into fine-tuning with OpenAI's technologies during this hackathon. Here, you’ll find three hands-on exercises that will help you master the art of fine-tuning models to achieve greater accuracy and performance in various tasks.
+Welcome to our **Fine Tuning Workshop**! This repository designed to kickstart your journey into fine-tuning with OpenAI's technologies during this hackathon. Here, you’ll find three hands-on exercises that will help you master the art of fine-tuning models to achieve greater accuracy and performance in various tasks.
 
 ## 🚀 How to Get Started
 
